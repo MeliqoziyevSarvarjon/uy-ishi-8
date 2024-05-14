@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main{
+    text-align: center;
+}
+.main-title{
+    margin: 30px;
+}
+.wrapper{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    background: rgb(253, 253, 253);
+    padding: 10px;
+    gap: 13px ;
+}
+.box{
+   background: rgb(255, 255, 255);
+   width: 70px;
+   height: 90px;
+}
+
+.box-img{
+    width: 60px;
+    height: 50px;
+    border-radius: 100%;
+    background: rgb(240, 185, 55);
+    margin-bottom: 10px;
+}
+.box-text{
+     font-size: 10px;
+}
+
+
+
+
+
